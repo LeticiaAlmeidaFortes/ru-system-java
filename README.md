@@ -8,10 +8,12 @@ Funcionalidades:
 - Consulta de cardápio do dia.
 
 Tecnologias Utilizadas:
-- Linguagem: Java com interface gráfica.
+- Linguagem: Java com interface gráfica (NetBeans).
 - Banco de dados: MySQL.
 
 Como executar:
-1. Clone o código do Java.
-2. Abra o projeto na sua IDE de preferência.
-3. Execute a classe principal 'Login.Java'.
+1. Clone o código do Java. 
+3. Abra o projeto na sua IDE de preferência.
+4. Execute a classe principal 'Login.Java'.
+5. Abra no banco de dados(de sua preferência) o arquivo do 'bdru.sql'.
+6. Certique-se que tenha a biblioteca JBDC Driver instalada no Java. 
